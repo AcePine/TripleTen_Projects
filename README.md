@@ -5,7 +5,7 @@ List of Projects I worked on during the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Superstore Return Data Analysis | The project task was to prepare an analysis for the CEO of the Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders. |
+| 1 | <a href='https://github.com/AcePine/Car-Ads-6' target=_blank><u>Superstore Return Data Analysis</u>.</a></p>  | The project task was to prepare an analysis for the CEO of the Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders. |
 | 2 | Used Car Data Web Application | The project task was to deploy an interactive web application that analyzed used car data to a cloud service. |
 | 3 | Instacart EDA | Worked with public Instacart data to clean up the data and prepare a report that gives insight into the shopping habits of Instacart customers. Included visualizations |
 | 4 | Yandex Marketing Optimization | Helped the analytical department at Yandex.Afisha optimize marketing expenses using server logs, dump files and statistics. |
